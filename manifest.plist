@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hi.applive</string>
+				<string>com.thai.im.cn</string>
 				<key>bundle-version</key>
-				<string>2.2.6</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Mglobal</string>
+				<string>demo</string>
 			</dict>
 		</dict>
 	</array>
