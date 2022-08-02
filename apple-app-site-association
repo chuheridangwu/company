@@ -1,0 +1,6 @@
+{
+    "messagefilter": {
+        "apps": ["5Z73338CN6.com.sms.demo.filter",
+                 "5Z73338CN6.com.sms.demo"]
+    }
+}
